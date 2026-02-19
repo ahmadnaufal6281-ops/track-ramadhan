@@ -1,5 +1,7 @@
 {
-  "name": "Ramadhan Tracker 2026",
+  "name": "Absensi Friend Digital",
   "description": "A comprehensive Ramadan companion with prayer times, Quran reading plan, and daily progress tracking.",
-  "requestFramePermissions": ["geolocation"]
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
